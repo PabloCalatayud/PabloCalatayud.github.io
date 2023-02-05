@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pablo Calatayud</title>
+        <link>https://pablocalatayud.github.io/es/</link>
+        <description>Recent content on Pablo Calatayud</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pablocalatayud.github.io/es/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Ejemplo2</title>
+        <link>https://pablocalatayud.github.io/es/p/ejemplo2/</link>
+        <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://pablocalatayud.github.io/es/p/ejemplo2/</guid>
+        <description>&lt;img src="https://pablocalatayud.github.io/es/p/ejemplo2/images/portada.jpg" alt="Featured image of post Ejemplo2" /&gt;&lt;p&gt;aaa&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Ejemplo</title>
+        <link>https://pablocalatayud.github.io/es/p/ejemplo/</link>
+        <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://pablocalatayud.github.io/es/p/ejemplo/</guid>
+        <description>&lt;img src="https://pablocalatayud.github.io/es/p/ejemplo/images/cover.jpg" alt="Featured image of post Ejemplo" /&gt;&lt;h1 id=&#34;markdown&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/h1&gt;
+&lt;h1 id=&#34;titulo-1&#34;&gt;Titulo 1&lt;/h1&gt;
+&lt;h2 id=&#34;titulo-2&#34;&gt;Titulo 2&lt;/h2&gt;
+&lt;h3 id=&#34;titulo-3&#34;&gt;Titulo 3&lt;/h3&gt;
+&lt;h4 id=&#34;titulo-4&#34;&gt;Titulo 4&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;# Titulo 1
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;## Titulo 2
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;### Titulo 3
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;#### Titulo 4
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Letra en negrita&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Letra en cursiva&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Subrallado&lt;/code&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-mysql&#34; data-lang=&#34;mysql&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;o&#34;&gt;**&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Letra&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;en&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;negrita&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;**&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Letra&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;en&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;n&#34;&gt;cursiva&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;`&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;Subrallado&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;`&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Codigo&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;img src=&#34;https://pablocalatayud.github.io/es/p/ejemplo/images/code.png&#34;
+	width=&#34;219&#34;
+	height=&#34;118&#34;
+	srcset=&#34;https://pablocalatayud.github.io/es/p/ejemplo/images/code_hu362d16b917f205f245d24f9520dcc316_3238_480x0_resize_box_3.png 480w, https://pablocalatayud.github.io/es/p/ejemplo/images/code_hu362d16b917f205f245d24f9520dcc316_3238_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;185&#34;
+		data-flex-basis=&#34;445px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lista&lt;/li&gt;
+&lt;li&gt;Lista&lt;/li&gt;
+&lt;li&gt;Lista&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;* Lista
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;* Lista
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;* Lista
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Columna Izquierda&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Columna Derecha&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Columna Centrada&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;3&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;4&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;5&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;6&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;7&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;8&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;9&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| Columna Izquierda | Columna Derecha | Columna Centrada |
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| :--- | ---: | :---: |
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| 1 | 2 | 3 |
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| 4 | 5 | 6 |
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;| 7 | 8 | 9 |
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://google.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Link&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pablocalatayud.github.io/es/p/ejemplo/images/cover.jpg&#34;
+	width=&#34;1366&#34;
+	height=&#34;911&#34;
+	srcset=&#34;https://pablocalatayud.github.io/es/p/ejemplo/images/cover_hudec5501d47227d0a1667f997c749bc7a_466601_480x0_resize_q75_box.jpg 480w, https://pablocalatayud.github.io/es/p/ejemplo/images/cover_hudec5501d47227d0a1667f997c749bc7a_466601_1024x0_resize_q75_box.jpg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;149&#34;
+		data-flex-basis=&#34;359px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;[Link](https://google.com)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;![](images/cover.jpg)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;hr&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h1 id=&#34;estructura-de-publicaciones&#34;&gt;Estructura de publicaciones&lt;/h1&gt;
+&lt;p&gt;Todas la publicaciones estan dentro de la carpeta post, cada post tiene que tener su carpeta, y dentro tiene que haber otra carpeta para las fotos y el index.md.
+El index.md es el archivo principal de la publicación. Para tener el post en varios idiomas se tiene que poner lo siguiente: &lt;code&gt;index.idioma.md&lt;/code&gt; Ejemplos: &lt;code&gt;index.es.md&lt;/code&gt;, &lt;code&gt;index.it.md&lt;/code&gt;, &lt;code&gt;index.en.md&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pablocalatayud.github.io/es/p/ejemplo/images/post.png&#34;
+	width=&#34;179&#34;
+	height=&#34;108&#34;
+	srcset=&#34;https://pablocalatayud.github.io/es/p/ejemplo/images/post_hu8bf8babf79393e6305fc353bc747cb16_5776_480x0_resize_box_3.png 480w, https://pablocalatayud.github.io/es/p/ejemplo/images/post_hu8bf8babf79393e6305fc353bc747cb16_5776_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;165&#34;
+		data-flex-basis=&#34;397px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;configuración-del-post&#34;&gt;Configuración del post&lt;/h2&gt;
+&lt;p&gt;En todas las publicaciones arriba del todo tienen una seccion separada por &amp;ldquo;&lt;code&gt;---&lt;/code&gt;&amp;rdquo; en la cual se especifican los parametros del post&lt;/p&gt;
+&lt;h3 id=&#34;parametros-principales&#34;&gt;Parametros principales&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;title: Titulo de la publicación
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;description: Descripción de la publicación
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;date: Fecha en formato &amp;#34;2023-02-01&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;image: Ubicación de la foto de portada
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;categories: [Categorias, Categorias]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;tags: [Etiquetas, Etiquetas]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;author: [author, author]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;parametros-extras&#34;&gt;Parametros extras&lt;/h3&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;readingtime: Flase/True
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;toc: False/True
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h1 id=&#34;categorias&#34;&gt;Categorias&lt;/h1&gt;
+&lt;p&gt;La estructura es muy parecida a la de los posts. Cada categoria tiene que tener su carpeta.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://pablocalatayud.github.io/es/p/ejemplo/images/categories.png&#34;
+	width=&#34;274&#34;
+	height=&#34;189&#34;
+	srcset=&#34;https://pablocalatayud.github.io/es/p/ejemplo/images/categories_hu1e38cb93708f54e90817e16550b7d6e4_12801_480x0_resize_box_3.png 480w, https://pablocalatayud.github.io/es/p/ejemplo/images/categories_hu1e38cb93708f54e90817e16550b7d6e4_12801_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;144&#34;
+		data-flex-basis=&#34;347px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h2 id=&#34;configuración-categorias&#34;&gt;Configuración categorias&lt;/h2&gt;
+&lt;p&gt;Contenido del index.md de la categoria&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;title:  Titulo de categoria
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;description: Descripción categoria
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;image: Portada categoria
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;style:
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    background: Color del fondo de la categoria
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    color: Color de las letras de la categoria
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;---
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Archivos</title>
+        <link>https://pablocalatayud.github.io/es/archives/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://pablocalatayud.github.io/es/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Buscar</title>
+        <link>https://pablocalatayud.github.io/es/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://pablocalatayud.github.io/es/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>categoria</title>
+        <link>https://pablocalatayud.github.io/es/categories/categoria-ejemplo_es/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://pablocalatayud.github.io/es/categories/categoria-ejemplo_es/</guid>
+        <description>&lt;img src="https://pablocalatayud.github.io/es/categories/categoria-ejemplo_es/images/cover.jpg" alt="Featured image of post categoria" /&gt;</description>
+        </item>
+        <item>
+        <title>Sobre mí</title>
+        <link>https://pablocalatayud.github.io/es/sobre-m%C3%AD/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://pablocalatayud.github.io/es/sobre-m%C3%AD/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://pablocalatayud.github.io/es/sobre-m%C3%AD/img/cover.png&#34;
+	width=&#34;767&#34;
+	height=&#34;498&#34;
+	srcset=&#34;https://pablocalatayud.github.io/es/sobre-m%C3%AD/img/cover_hu918f4fc0756bb388882b756ff4770dbd_895504_480x0_resize_box_3.png 480w, https://pablocalatayud.github.io/es/sobre-m%C3%AD/img/cover_hu918f4fc0756bb388882b756ff4770dbd_895504_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;154&#34;
+		data-flex-basis=&#34;369px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Soy un profesional muy motivado y dedicado con un historial probado de éxito en diversos sectores. Soy un jugador de equipo que valora la colaboración y trabaja bien con los demás para lograr objetivos comunes. Estoy comprometido con la excelencia en todo lo que hago y me enorgullezco de mi capacidad para obtener resultados. También soy una persona sociable y extrovertida a la que le gusta interactuar con los demás y establecer relaciones sólidas. Estoy orientado a los objetivos y siempre me esfuerzo por mejorar y alcanzar el éxito. Además, estoy orientada al cliente y me dedico a asegurar que mis clientes estén satisfechos con el trabajo que les proporciono.&lt;/p&gt;
+&lt;h1 id=&#34;situación-actual&#34;&gt;Situación actual&lt;/h1&gt;
+&lt;p&gt;Trabajo como freelance en páginas web como UpWork. Trabajo con python y jupyter notebooks en proyectos de finanzas y ciencia de datos.&lt;/p&gt;
+&lt;p&gt;Estoy buscando una posición desafiante en la industria de la ciencia de datos donde pueda utilizar mis habilidades y seguir creciendo.&lt;/p&gt;
+&lt;h1 id=&#34;educación&#34;&gt;Educación&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Máster en Data Science por la Universidad de Cantabria &amp;amp; Universidad Internacional Menéndez Pelayo de 2021 a 2022.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Licenciado en matemáticas con especialización en finanzas por la universidad de Cantabria de 2012 a 2018.
+Sobre el problema de separación de elipses y elipsoides: una aplicación de la eliminación de cuantificadores.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cursé un programa de postgrado en Sistemas y Modelos Cuantitativos para Algorithmic Trading por la Universidad Politécnica de Madrid de 2021 a 2022.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;experiencia-laboral&#34;&gt;Experiencia Laboral&lt;/h1&gt;
+&lt;h2 id=&#34;freelance&#34;&gt;Freelance&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;De octubre de 2021 hasta la actualidad&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Tengo experiencia en el desarrollo de código python para proyectos de ciencia de datos y trading algorítmico utilizando Jupyter notebooks. Mi experiencia incluye la utilización de librerías como Pandas, Numpy, Scikit-learn y Pytorch. Tengo experiencia en la agregación de datos de varias API como FRED, Yahoo Finance, twitter, y Binance. También soy experto en el tratamiento de datos de series temporales y el desarrollo de métodos cuantitativos, supervisado, no supervisado, y los modelos de aprendizaje profundo para predecir los movimientos de precios del día siguiente y crear robots de negociación algorítmica para la inversión financiera basada en modelos de ML.&lt;/p&gt;
+&lt;h2 id=&#34;celestia-tech-group&#34;&gt;Celestia Tech Group&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;De 2016 a octubre de 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;He trabajado como ingeniero de desarrollo de software en el sector aeroespacial durante más de 4 años. La mayor parte de mi experiencia profesional se centra en la codificación en MATLAB y PYTHON y en el desarrollo de modelos para calcular los patrones de radiación de diferentes geometrías de antenas de barrido electrónico para diferentes diseños de haces de fase. He evaluado cantidades ingentes de conjuntos de datos de diagramas de radiación en busca de compensaciones basadas en la normativa aeroespacial, los requisitos de los clientes y las capacidades de ingeniería. En palabras de la Agencia Espacial Europea (ESA), &amp;ldquo;el proyecto proporcionó un alto rendimiento basado en el estado del arte de varias tecnologías clave Proyecto ESA.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on Pablo Calatayud</title>
+        <link>https://pablocalatayud.github.io/es/page/</link>
+        <description>Recent content in Pages on Pablo Calatayud</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language><atom:link href="https://pablocalatayud.github.io/es/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Archivos</title>
+        <link>https://pablocalatayud.github.io/es/archives/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://pablocalatayud.github.io/es/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Buscar</title>
+        <link>https://pablocalatayud.github.io/es/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://pablocalatayud.github.io/es/search/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Sobre mí</title>
+        <link>https://pablocalatayud.github.io/es/sobre-m%C3%AD/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://pablocalatayud.github.io/es/sobre-m%C3%AD/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://pablocalatayud.github.io/es/sobre-m%C3%AD/img/cover.png&#34;
+	width=&#34;767&#34;
+	height=&#34;498&#34;
+	srcset=&#34;https://pablocalatayud.github.io/es/sobre-m%C3%AD/img/cover_hu918f4fc0756bb388882b756ff4770dbd_895504_480x0_resize_box_3.png 480w, https://pablocalatayud.github.io/es/sobre-m%C3%AD/img/cover_hu918f4fc0756bb388882b756ff4770dbd_895504_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;154&#34;
+		data-flex-basis=&#34;369px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Soy un profesional muy motivado y dedicado con un historial probado de éxito en diversos sectores. Soy un jugador de equipo que valora la colaboración y trabaja bien con los demás para lograr objetivos comunes. Estoy comprometido con la excelencia en todo lo que hago y me enorgullezco de mi capacidad para obtener resultados. También soy una persona sociable y extrovertida a la que le gusta interactuar con los demás y establecer relaciones sólidas. Estoy orientado a los objetivos y siempre me esfuerzo por mejorar y alcanzar el éxito. Además, estoy orientada al cliente y me dedico a asegurar que mis clientes estén satisfechos con el trabajo que les proporciono.&lt;/p&gt;
+&lt;h1 id=&#34;situación-actual&#34;&gt;Situación actual&lt;/h1&gt;
+&lt;p&gt;Trabajo como freelance en páginas web como UpWork. Trabajo con python y jupyter notebooks en proyectos de finanzas y ciencia de datos.&lt;/p&gt;
+&lt;p&gt;Estoy buscando una posición desafiante en la industria de la ciencia de datos donde pueda utilizar mis habilidades y seguir creciendo.&lt;/p&gt;
+&lt;h1 id=&#34;educación&#34;&gt;Educación&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Máster en Data Science por la Universidad de Cantabria &amp;amp; Universidad Internacional Menéndez Pelayo de 2021 a 2022.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Licenciado en matemáticas con especialización en finanzas por la universidad de Cantabria de 2012 a 2018.
+Sobre el problema de separación de elipses y elipsoides: una aplicación de la eliminación de cuantificadores.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cursé un programa de postgrado en Sistemas y Modelos Cuantitativos para Algorithmic Trading por la Universidad Politécnica de Madrid de 2021 a 2022.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;experiencia-laboral&#34;&gt;Experiencia Laboral&lt;/h1&gt;
+&lt;h2 id=&#34;freelance&#34;&gt;Freelance&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;De octubre de 2021 hasta la actualidad&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Tengo experiencia en el desarrollo de código python para proyectos de ciencia de datos y trading algorítmico utilizando Jupyter notebooks. Mi experiencia incluye la utilización de librerías como Pandas, Numpy, Scikit-learn y Pytorch. Tengo experiencia en la agregación de datos de varias API como FRED, Yahoo Finance, twitter, y Binance. También soy experto en el tratamiento de datos de series temporales y el desarrollo de métodos cuantitativos, supervisado, no supervisado, y los modelos de aprendizaje profundo para predecir los movimientos de precios del día siguiente y crear robots de negociación algorítmica para la inversión financiera basada en modelos de ML.&lt;/p&gt;
+&lt;h2 id=&#34;celestia-tech-group&#34;&gt;Celestia Tech Group&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;De 2016 a octubre de 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;He trabajado como ingeniero de desarrollo de software en el sector aeroespacial durante más de 4 años. La mayor parte de mi experiencia profesional se centra en la codificación en MATLAB y PYTHON y en el desarrollo de modelos para calcular los patrones de radiación de diferentes geometrías de antenas de barrido electrónico para diferentes diseños de haces de fase. He evaluado cantidades ingentes de conjuntos de datos de diagramas de radiación en busca de compensaciones basadas en la normativa aeroespacial, los requisitos de los clientes y las capacidades de ingeniería. En palabras de la Agencia Espacial Europea (ESA), &amp;ldquo;el proyecto proporcionó un alto rendimiento basado en el estado del arte de varias tecnologías clave Proyecto ESA.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

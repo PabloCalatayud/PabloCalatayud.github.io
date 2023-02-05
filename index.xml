@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pablo Calatayud</title>
+        <link>https://pablocalatayud.github.io/</link>
+        <description>Recent content on Pablo Calatayud</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language><atom:link href="https://pablocalatayud.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About me</title>
+        <link>https://pablocalatayud.github.io/about-me/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://pablocalatayud.github.io/about-me/</guid>
+        <description>&lt;p&gt;&lt;img src=&#34;https://pablocalatayud.github.io/about-me/img/cover.png&#34;
+	width=&#34;767&#34;
+	height=&#34;498&#34;
+	srcset=&#34;https://pablocalatayud.github.io/about-me/img/cover_hu918f4fc0756bb388882b756ff4770dbd_895504_480x0_resize_box_3.png 480w, https://pablocalatayud.github.io/about-me/img/cover_hu918f4fc0756bb388882b756ff4770dbd_895504_1024x0_resize_box_3.png 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;154&#34;
+		data-flex-basis=&#34;369px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;I am a highly self-motivated and dedicated professional with a proven track record of success in various industries. I am a team player who values collaboration and works well with others to achieve common goals. I am committed to excellence in everything I do and take pride in my ability to drive results. I am also a social and outgoing individual who enjoys interacting with others and building strong relationships. I am goal-oriented and always strive to improve and achieve success. Furthermore, I am client-oriented and dedicated to ensuring that my clients are satisfied with the work that I provide&lt;/p&gt;
+&lt;h1 id=&#34;current-situation&#34;&gt;Current Situation&lt;/h1&gt;
+&lt;p&gt;I work as a freelance in websites such as UpWork. I work with python and jupyter notebooks in finance and data science projects.&lt;/p&gt;
+&lt;p&gt;I am seeking a challenging position in the data science industry where I can utilize my skills and continue to grow!&lt;/p&gt;
+&lt;h1 id=&#34;education&#34;&gt;Education&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Master’s in Data Science by the University of Cantabria &amp;amp; Menéndez Pelayo International University from 2021 to 2022.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Bachelor’s degree in mathematics with an specialization in finance by the university of Cantabria from 2012 to 2018.
+On the ellipses and ellipsoids separation problem: an application of quantifier elimination&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I cursed a postgraduate program in Quantitative Systems and Models for Algorithmic Trading by the Polytechnic University of Madrid from 2021 to 2022&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;working-experience&#34;&gt;Working Experience&lt;/h1&gt;
+&lt;h2 id=&#34;freelance&#34;&gt;Freelance&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Oct 2021 to Present&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I have experience in developing python code for data science and algorithmic trading projects using Jupyter notebooks. My expertise includes utilizing libraries such as Pandas, Numpy, Scikit-learn, and Pytorch. I have experience in data aggregation from various API’s such as FRED, Yahoo Finance, twitter, and Binance. I am also skilled in treating time series data and developing quantitative methods, supervised, unsupervised, and deep learning models to predict next day price movements and create algorithmic trading robots for financial investment based on ML models&lt;/p&gt;
+&lt;h2 id=&#34;celestia-tech-group&#34;&gt;Celestia Tech Group&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;2016 to Oct 2021&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;I had worked as a software development engineer in the aerospace sector for more than 4 years. Most of my professional experience lies in MATLAB and PYTHON coding and developing models to calculate the radiation patterns of different electronic scan antenna geometries for different phase beam designs. I evaluated massive amounts of radiation patterns datasets looking for trade-offs based on aerospace regulations, client requirements, and engineering capabilities. In the words of the European Space Agency (ESA), “the project provided a high performance based on the state of the art of several key technologies ESA Project.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>https://pablocalatayud.github.io/archives/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://pablocalatayud.github.io/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>categoria</title>
+        <link>https://pablocalatayud.github.io/categories/categoria-ejemplo_en/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://pablocalatayud.github.io/categories/categoria-ejemplo_en/</guid>
+        <description>&lt;img src="https://pablocalatayud.github.io/categories/categoria-ejemplo_en/images/cover.jpg" alt="Featured image of post categoria" /&gt;</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://pablocalatayud.github.io/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://pablocalatayud.github.io/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
