@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Pablo Calatayud</title>
+        <link>https://demo.stack.jimmycai.com/post/</link>
+        <description>Recent content in Posts on Pablo Calatayud</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>bh_example</title>
+        <link>https://demo.stack.jimmycai.com/p/bh_example/</link>
+        <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://demo.stack.jimmycai.com/p/bh_example/</guid>
+        <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
