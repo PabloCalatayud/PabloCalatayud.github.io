@@ -1661,7 +1661,19 @@ through 1-to-1 Python code sessions
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://pablocalatayud.github.io/es/page/behind-the-code/</guid>
-        <description>&lt;h1 id=&#34;i-am-interested-in-sharing-my-personal-experiences-on-this-page&#34;&gt;I am interested in sharing my personal experiences on this page.&lt;/h1&gt;
+        <description>&lt;p&gt;&lt;img src=&#34;https://pablocalatayud.github.io/es/page/behind-the-code/img/behind.jpeg&#34;
+	width=&#34;715&#34;
+	height=&#34;648&#34;
+	srcset=&#34;https://pablocalatayud.github.io/es/page/behind-the-code/img/behind_hu9fe5695574a7336ba81be4569c9aa70a_106504_480x0_resize_q75_box.jpeg 480w, https://pablocalatayud.github.io/es/page/behind-the-code/img/behind_hu9fe5695574a7336ba81be4569c9aa70a_106504_1024x0_resize_q75_box.jpeg 1024w&#34;
+	loading=&#34;lazy&#34;
+	
+	
+		class=&#34;gallery-image&#34; 
+		data-flex-grow=&#34;110&#34;
+		data-flex-basis=&#34;264px&#34;
+	
+&gt;&lt;/p&gt;
+&lt;h1 id=&#34;i-am-interested-in-sharing-my-personal-experiences-on-this-page&#34;&gt;I am interested in sharing my personal experiences on this page.&lt;/h1&gt;
 </description>
         </item>
         
