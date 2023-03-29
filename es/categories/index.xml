@@ -2,16 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Pablo Calatayud</title>
-        <link>https://demo.stack.jimmycai.com/categories/</link>
+        <link>https://pablocalatayud.github.io/es/categories/</link>
         <description>Recent content in Categories on Pablo Calatayud</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>es-es</language>
-        <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://demo.stack.jimmycai.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>en</language>
+        <lastBuildDate>Thu, 02 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pablocalatayud.github.io/es/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>categoria</title>
-        <link>https://demo.stack.jimmycai.com/categories/categoria/</link>
+        <link>https://pablocalatayud.github.io/es/categories/categoria/</link>
         <pubDate>Thu, 02 Feb 2023 00:00:00 +0000</pubDate>
         
-        <guid>https://demo.stack.jimmycai.com/categories/categoria/</guid>
+        <guid>https://pablocalatayud.github.io/es/categories/categoria/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Machine Learning</title>
+        <link>https://pablocalatayud.github.io/es/categories/machine-learning/</link>
+        <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://pablocalatayud.github.io/es/categories/machine-learning/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>python</title>
+        <link>https://pablocalatayud.github.io/es/categories/python/</link>
+        <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://pablocalatayud.github.io/es/categories/python/</guid>
         <description></description>
         </item>
         

@@ -10,12 +10,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pablocalatayud.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://pablocalatayud.github.io/it/categories/"
+                href="https://pablocalatayud.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -28,7 +23,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pablocalatayud.github.io/categories/"
+                href="https://pablocalatayud.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -36,7 +31,7 @@
                 href="https://pablocalatayud.github.io/es/categories/"
                 />
   </url><url>
-    <loc>https://pablocalatayud.github.io/es/p/ejemplo2/</loc>
+    <loc>https://pablocalatayud.github.io/es/post/ejemplo2/</loc>
     <lastmod>2023-02-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pablocalatayud.github.io/es/tags/etqueta-ejemplo2/</loc>
@@ -47,12 +42,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pablocalatayud.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://pablocalatayud.github.io/it/"
+                href="https://pablocalatayud.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -62,18 +52,23 @@
   </url><url>
     <loc>https://pablocalatayud.github.io/es/post/</loc>
     <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pablocalatayud.github.io/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://pablocalatayud.github.io/es/post/"
+                />
   </url><url>
     <loc>https://pablocalatayud.github.io/es/tags/</loc>
     <lastmod>2023-02-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pablocalatayud.github.io/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://pablocalatayud.github.io/it/tags/"
+                href="https://pablocalatayud.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -81,80 +76,109 @@
                 href="https://pablocalatayud.github.io/es/tags/"
                 />
   </url><url>
-    <loc>https://pablocalatayud.github.io/es/p/ejemplo/</loc>
+    <loc>https://pablocalatayud.github.io/es/post/example/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pablocalatayud.github.io/en/post/example/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://pablocalatayud.github.io/es/post/example/"
+                />
+  </url><url>
+    <loc>https://pablocalatayud.github.io/es/tags/data-science/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pablocalatayud.github.io/es/post/ejemplo/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://pablocalatayud.github.io/es/tags/etqueta-ejemplo/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://pablocalatayud.github.io/es/archives/</loc>
+    <loc>https://pablocalatayud.github.io/es/categories/machine-learning/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pablocalatayud.github.io/es/tags/python/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pablocalatayud.github.io/es/categories/python/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pablocalatayud.github.io/es/page/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pablocalatayud.github.io/archives/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://pablocalatayud.github.io/it/archives/"
+                href="https://pablocalatayud.github.io/en/page/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://pablocalatayud.github.io/es/archives/"
+                href="https://pablocalatayud.github.io/es/page/about/"
                 />
   </url><url>
-    <loc>https://pablocalatayud.github.io/es/search/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://pablocalatayud.github.io/it/search/"
-                />
+    <loc>https://pablocalatayud.github.io/es/page/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pablocalatayud.github.io/search/"
+                href="https://pablocalatayud.github.io/en/page/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://pablocalatayud.github.io/es/search/"
+                href="https://pablocalatayud.github.io/es/page/archives/"
+                />
+  </url><url>
+    <loc>https://pablocalatayud.github.io/es/page/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pablocalatayud.github.io/en/page/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://pablocalatayud.github.io/es/page/search/"
                 />
   </url><url>
     <loc>https://pablocalatayud.github.io/es/categories/categoria-ejemplo_es/</loc>
+  </url><url>
+    <loc>https://pablocalatayud.github.io/es/page/coding-solutions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pablocalatayud.github.io/en/page/coding-solutions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://pablocalatayud.github.io/es/page/coding-solutions/"
+                />
+  </url><url>
+    <loc>https://pablocalatayud.github.io/es/page/behind-the-code/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pablocalatayud.github.io/en/page/behind-the-code/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://pablocalatayud.github.io/es/page/behind-the-code/"
+                />
   </url><url>
     <loc>https://pablocalatayud.github.io/es/page/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://pablocalatayud.github.io/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://pablocalatayud.github.io/it/page/"
+                href="https://pablocalatayud.github.io/en/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
                 href="https://pablocalatayud.github.io/es/page/"
-                />
-  </url><url>
-    <loc>https://pablocalatayud.github.io/es/sobre-m%C3%AD/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://pablocalatayud.github.io/about-me/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://pablocalatayud.github.io/it/su-di-me/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://pablocalatayud.github.io/es/sobre-m%C3%AD/"
                 />
   </url>
 </urlset>
