@@ -2,154 +2,174 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://demo.stack.jimmycai.com/</loc>
+    <loc>https://pablocalatayud.github.io/en/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://demo.stack.jimmycai.com/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://demo.stack.jimmycai.com/"
+                href="https://pablocalatayud.github.io/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://demo.stack.jimmycai.com/"
+                href="https://pablocalatayud.github.io/en/"
                 />
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/p/bh_example/</loc>
+    <loc>https://pablocalatayud.github.io/en/tags/bh/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/post/</loc>
+    <loc>https://pablocalatayud.github.io/en/categories/buy-and-hold/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pablocalatayud.github.io/en/post/example/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://demo.stack.jimmycai.com/post/"
+                href="https://pablocalatayud.github.io/es/post/example/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://demo.stack.jimmycai.com/post/"
+                href="https://pablocalatayud.github.io/en/post/example/"
                 />
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/about-me/</loc>
+    <loc>https://pablocalatayud.github.io/en/categories/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://demo.stack.jimmycai.com/sobre-m%C3%AD/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://demo.stack.jimmycai.com/su-di-me/"
+                href="https://pablocalatayud.github.io/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://demo.stack.jimmycai.com/about-me/"
+                href="https://pablocalatayud.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/archives/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://demo.stack.jimmycai.com/archives/"
-                />
+    <loc>https://pablocalatayud.github.io/en/categories/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://demo.stack.jimmycai.com/archives/"
+                href="https://pablocalatayud.github.io/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://demo.stack.jimmycai.com/archives/"
+                href="https://pablocalatayud.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/categories/categoria-ejemplo_en/</loc>
+    <loc>https://pablocalatayud.github.io/en/tags/dca/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/categories/</loc>
+    <loc>https://pablocalatayud.github.io/en/tags/dcpia/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pablocalatayud.github.io/en/categories/dollar-costing-and-public-interest-averaging/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pablocalatayud.github.io/en/categories/dollar-costing-average/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://pablocalatayud.github.io/en/post/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://demo.stack.jimmycai.com/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://demo.stack.jimmycai.com/categories/"
+                href="https://pablocalatayud.github.io/es/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://demo.stack.jimmycai.com/categories/"
+                href="https://pablocalatayud.github.io/en/post/"
                 />
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/categories/</loc>
+    <loc>https://pablocalatayud.github.io/en/tags/</loc>
+    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://demo.stack.jimmycai.com/categories/"
+                href="https://pablocalatayud.github.io/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://demo.stack.jimmycai.com/categories/"
+                href="https://pablocalatayud.github.io/en/tags/"
                 />
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/page/</loc>
+    <loc>https://pablocalatayud.github.io/en/page/behind-the-code/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://demo.stack.jimmycai.com/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://demo.stack.jimmycai.com/page/"
+                href="https://pablocalatayud.github.io/es/page/behind-the-code/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://demo.stack.jimmycai.com/page/"
+                href="https://pablocalatayud.github.io/en/page/behind-the-code/"
                 />
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/search/</loc>
+    <loc>https://pablocalatayud.github.io/en/page/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://demo.stack.jimmycai.com/search/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://demo.stack.jimmycai.com/search/"
+                href="https://pablocalatayud.github.io/es/page/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://demo.stack.jimmycai.com/search/"
+                href="https://pablocalatayud.github.io/en/page/about/"
                 />
   </url><url>
-    <loc>https://demo.stack.jimmycai.com/tags/</loc>
+    <loc>https://pablocalatayud.github.io/en/page/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://demo.stack.jimmycai.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://demo.stack.jimmycai.com/tags/"
+                href="https://pablocalatayud.github.io/es/page/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://demo.stack.jimmycai.com/tags/"
+                href="https://pablocalatayud.github.io/en/page/archives/"
+                />
+  </url><url>
+    <loc>https://pablocalatayud.github.io/en/categories/categoria-ejemplo_en/</loc>
+  </url><url>
+    <loc>https://pablocalatayud.github.io/en/page/coding-solutions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://pablocalatayud.github.io/es/page/coding-solutions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pablocalatayud.github.io/en/page/coding-solutions/"
+                />
+  </url><url>
+    <loc>https://pablocalatayud.github.io/en/page/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://pablocalatayud.github.io/es/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pablocalatayud.github.io/en/page/"
+                />
+  </url><url>
+    <loc>https://pablocalatayud.github.io/en/page/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://pablocalatayud.github.io/es/page/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://pablocalatayud.github.io/en/page/search/"
                 />
   </url>
 </urlset>
